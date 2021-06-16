@@ -3,12 +3,13 @@
 SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치페이</span>입니다.
 
 <p align="center">
-![__2_-removebg-preview](/uploads/834f423c23139e6ccc50b9a66c5dd10a/__2_-removebg-preview.png)
+<img src="https://user-images.githubusercontent.com/77089164/121697057-a5b14580-cb07-11eb-9b7a-aad37a08393d.png">
+
 
 <p style="padding: 15px">
 <img src="https://img.shields.io/static/v1?label=SSAFY&message=4%EA%B8%B0&color=0ABAB5">
-<img src="https://img.shields.io/static/v1?label=서울&message=1반&color=00a3d2">
-<img src="https://img.shields.io/static/v1?label=Domain&message=자율프로젝트&color=ABF200">
+<img src="https://img.shields.io/static/v1?label=Seoul&message=Class1&color=00a3d2">
+<img src="https://img.shields.io/static/v1?label=Domain&message=AutonomyProject&color=ABF200">
 </p>
 
 - 리퍼브 상품에 하향식 경매를 이용해 판매하는 쇼핑몰 프로젝트입니다.
@@ -18,7 +19,6 @@ SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치�
 - 리퍼브 상품들은 재고로 처리되며 시간이 지나면 점점 가치가 하락한다는 공통점이 있습니다.
 - 따라서 리퍼브 상품에 하향식 경매를 적용해 시간에 따라 가치가 달라지는 점을 반영했습니다.
 </p>
----
 
 &nbsp;
 &nbsp;
@@ -51,7 +51,8 @@ SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치�
 
 # 💡기획배경
 
-![A103_기획발표](/uploads/81ae4b2081d5c2ceebee714fdf1867f4/A103_기획발표.png)
+
+<img src="https://user-images.githubusercontent.com/77089164/121698872-6552c700-cb09-11eb-9a44-71ff11729189.png">
 
 &nbsp;
 &nbsp;
@@ -63,19 +64,19 @@ SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치�
 
 ## [와이어 프레임](https://www.figma.com/file/6Qi8Xm9QdUBCSITZJSI4Qw/%EC%9E%90%EC%9C%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0%3A1)
 
-![Image_Pasted_at_2021-5-20_16-37](/uploads/62c28d740bc3274f52439764adedbc5e/Image_Pasted_at_2021-5-20_16-37.png)
+<img src="https://user-images.githubusercontent.com/77089164/121699515-f88bfc80-cb09-11eb-8f93-3da6284a56d3.jpg">
 
 ## [ERD](https://www.erdcloud.com/d/Q2J7PtKbnRL55vnw4)
 
-![erd](/uploads/c0274eca643542e1cc651b14c3a3c806/erd.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121700074-7ea84300-cb0a-11eb-9d99-c74520d61236.png">
 
 ## [API Table](https://www.notion.so/API-ad638aad80a84f769262a9eabb2930d0)
 
-![api_1](/uploads/6c176f210da4fc37342adac4f9c1b3f7/api_1.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121701437-de531e00-cb0b-11eb-986a-0bc9cd258664.jpg">
 <br />
-![api_2](/uploads/a7c3ab6d87ab34ec7fe860e9ef81a90f/api_2.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121701445-df844b00-cb0b-11eb-8c90-b2c434b84117.jpg">
 <br />
-![api_3](/uploads/59e5900a4e90e936a92db6eb37a306a1/api_3.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121701451-e0b57800-cb0b-11eb-827a-ec7c7f4d0e24.jpg">
 
 &nbsp;
 &nbsp;
@@ -85,11 +86,11 @@ SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치�
 
 # 🛒주요기능
 
-![메인_1](/uploads/4c20d46648a890ad742190f2788893d1/메인_1.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121702048-7d781580-cb0c-11eb-8f79-33e5f3454d92.jpg">
 <br />
-![메인_2](/uploads/b11534176bb60f147c016075d1e193f7/메인_2.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121702038-7c46e880-cb0c-11eb-8bcf-681c1d96f5cb.jpg">
 <br />
-![메인_3](/uploads/b695086209b89bd56cf63ca96edf855e/메인_3.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121702045-7d781580-cb0c-11eb-916d-e58153cc59c0.jpg">
 
 ## 1. 테마 별 상품 조회
 ## 2. 상품 카드화로 간편하게 정보 확인
@@ -152,7 +153,7 @@ SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치�
 
 ### 소스트리(Sourcetree)
 
-![소스트리](/uploads/b795ae873572fb860ebad31b541c48e7/소스트리.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121702227-a8626980-cb0c-11eb-957c-7b9156d67457.png">
 
 - 소스트리를 활용하여 깃을 체계적으로 관리했습니다.
 - branch를 쉽게 생성하며, 어떤 branch가 존재하는지 파악하기 쉽습니다.
@@ -195,4 +196,4 @@ exec dir 를 참조해주세요!
 
 <h2>지금까지 <strong style="color: green; font-size: 45px;">더치페이</strong>의 리드미였습니다. <br/> 감사합니다!</h2>
 
-![A103_기획발표](/uploads/82c2c8bfe89b7df58215cfb7b2d89602/A103_기획발표.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121702330-bd3efd00-cb0c-11eb-8737-d644f53769f1.jpg">
